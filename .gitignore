@@ -1,0 +1,4 @@
+# Local build intermediates and downloadable copies
+/dist/*.o
+/dist/*.zip
+/dist/WorkEarnings-v2.exe
